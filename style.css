@@ -1,0 +1,53 @@
+.form{
+    /* text-align: center; */
+    margin-left: 30%;
+    margin-top:15%;
+    border: 6px solid skyblue;
+    border-radius: 7px;
+    display:flex;
+    justify-content: center;
+    height: 120px;
+    font-size: x-large;
+    width: fit-content;
+    background-color:rgb(6,57,112);
+    color: white;
+
+}
+/* .form table{
+    justify-content: center;
+    text-align: center;
+} */
+#age{
+    font-size: x-large;
+    border-radius: 7px;
+}
+#weight{
+    font-size: x-large;
+    border-radius: 7px;
+}
+#res{
+    font-size: x-large;
+    border-radius: 7px;
+}
+button{
+    font-size: x-large;
+    background-color:rgb(196, 215, 219);
+    border-radius: 5px;
+    border-color: yellowgreen;
+    border-style:outset;
+}
+/* .bottom{
+    text-align: center;
+    font-size: x-large;
+}
+.bottom button{
+    font-size: x-large;
+    margin-top: 3%;
+    background-color: rgb(17, 234, 93);
+    border-radius: 5px;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+} */
+
+
